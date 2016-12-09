@@ -1,0 +1,8 @@
+{
+    "propel": {
+        "paths": {
+            "schemaDir": "D:\\users\\stefano\\dev\\projects\\clodesk\\api\\propel",
+            "phpDir": "D:\\users\\stefano\\dev\\projects\\clodesk\\api\\propel"
+        }
+    }
+}

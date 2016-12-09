@@ -1,0 +1,13 @@
+{
+    "name": "clodesk/api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Stefano",
+            "email": "stefano@stepo.biz"
+        }
+    ],
+    "require": {
+        "propel/propel": "~2.0@dev"
+    }
+}
